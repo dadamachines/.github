@@ -12,9 +12,9 @@ Built on [CTAG TBD](https://github.com/ctag-fh-kiel/ctag-tbd) (ESP32 audio DSP p
 - [**dada-tbd-doom**](https://github.com/dadamachines/dada-tbd-doom) — DOOM 1 running on the TBD-16
 
 ## automat toolkit
-The [**automat toolkit**](https://dadamachines.com/products/automat-toolkit/) — our plug & play MIDI controller for building robotic music machines. On the market since 2017.
+The [**automat toolkit**](https://dadamachines.com/products/automat-toolkit/) — our plug & play MIDI controller for building robotic music machines.
 
 - [**automat**](https://github.com/dadamachines/automat) — an awesome controller for musicmachines
 - [**automat-software**](https://github.com/dadamachines/automat-software) — SAMD21 firmware
 
-🌐 [dadamachines.com](https://dadamachines.com) · 💬 [Contact](https://dadamachines.com/contact/)
+Copyright &copy; 2014-2026 [Johannes Elias Lohbihler](https://lohbihler.com) for [dadamachines](https://dadamachines.com) · 💬 [Contact](https://dadamachines.com/contact/)
