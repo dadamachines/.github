@@ -10,8 +10,6 @@ The [**TBD-16**](https://dadamachines.github.io/ctag-tbd/) — a standalone desk
 Built on [CTAG TBD](https://github.com/ctag-fh-kiel/ctag-tbd) by Robert Manzke. Fully open source (GPL/LGPL).
 
 - [**ctag-tbd**](https://github.com/dadamachines/ctag-tbd) — ESP32-P4 audio DSP engine, UI/UX, and docs
-- [**dada-tbd-firmware**](https://github.com/dadamachines/dada-tbd-firmware) — Pre-built firmware binaries
-- [**dada-tbd-tui**](https://github.com/dadamachines/dada-tbd-tui) — Terminal-based update wizard
 - [**dada-tbd-app-template**](https://github.com/dadamachines/dada-tbd-app-template) — Starting point for RP2350 apps (Arduino & PlatformIO)
 - [**dada-tbd-doom**](https://github.com/dadamachines/dada-tbd-doom) — DOOM 1 running on the TBD-16
 
