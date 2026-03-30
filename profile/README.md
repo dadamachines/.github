@@ -6,8 +6,7 @@ Founded by [Johannes Elias Lohbihler](https://lohbihler.com) — creative techno
 
 ## TBD-16
 
-The [**TBD-16**](https://dadamachines.github.io/ctag-tbd/) — a standalone desktop instrument with 50+ DSP plugins, standard MIDI, browser UI, and Ableton Link.
-
+The [**TBD-16**](https://dadamachines.github.io/ctag-tbd/) — a standalone desktop instrument with 50+ DSP plugins, standard MIDI, browser UI, and Ableton Link.  
 Built on [CTAG TBD](https://github.com/ctag-fh-kiel/ctag-tbd) by Robert Manzke. Fully open source (GPL/LGPL).
 
 - [**ctag-tbd**](https://github.com/dadamachines/ctag-tbd) — ESP32-P4 audio DSP engine, UI/UX, and docs
@@ -22,8 +21,6 @@ The [**automat toolkit**](https://dadamachines.com/products/automat-toolkit/) �
 
 - [**automat**](https://github.com/dadamachines/automat) — Controller board & firmware updates
 - [**automat-software**](https://github.com/dadamachines/automat-software) — SAMD21 firmware (PlatformIO, GPL-3.0)
-- [**automat-configurator**](https://github.com/dadamachines/automat-configurator) — WebMIDI browser configurator
-- [**automattoolkit-adapters-elements**](https://github.com/dadamachines/automattoolkit-adapters-elements) — Laser-cut adapter & element designs (CC BY-SA 4.0)
 
 ## Get Involved
 
